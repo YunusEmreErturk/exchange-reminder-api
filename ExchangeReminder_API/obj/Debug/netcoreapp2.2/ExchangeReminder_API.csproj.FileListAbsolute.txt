@@ -1,0 +1,16 @@
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\bin\Debug\netcoreapp2.2\ExchangeReminder_API.deps.json
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\bin\Debug\netcoreapp2.2\ExchangeReminder_API.runtimeconfig.json
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\bin\Debug\netcoreapp2.2\ExchangeReminder_API.runtimeconfig.dev.json
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\bin\Debug\netcoreapp2.2\ExchangeReminder_API.dll
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\obj\Debug\netcoreapp2.2\ExchangeReminder_API.csprojAssemblyReference.cache
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\obj\Debug\netcoreapp2.2\ExchangeReminder_API.RazorAssemblyInfo.cache
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\obj\Debug\netcoreapp2.2\ExchangeReminder_API.RazorAssemblyInfo.cs
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\obj\Debug\netcoreapp2.2\ExchangeReminder_API.AssemblyInfoInputs.cache
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\obj\Debug\netcoreapp2.2\ExchangeReminder_API.AssemblyInfo.cs
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\obj\Debug\netcoreapp2.2\ExchangeReminder_API.RazorTargetAssemblyInfo.cache
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\bin\Debug\netcoreapp2.2\ExchangeReminder_API.pdb
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\obj\Debug\netcoreapp2.2\ExchangeReminder_API.dll
+C:\Users\devel\OneDrive\Masaüstü\exchange-reminder-api\ExchangeReminder_API\ExchangeReminder_API\obj\Debug\netcoreapp2.2\ExchangeReminder_API.pdb
