@@ -12958,11 +12958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devel\\OneDrive\\Masaüstü\\exchange-reminder-api\\ExchangeReminder_API\\ExchangeReminder_API\\ExchangeReminder_API.csproj",
+      "projectUniqueName": "C:\\Users\\devel\\OneDrive\\Masaüstü\\exchange-reminder-api\\exchange-reminder-api\\ExchangeReminder_API\\ExchangeReminder_API.csproj",
       "projectName": "ExchangeReminder_API",
-      "projectPath": "C:\\Users\\devel\\OneDrive\\Masaüstü\\exchange-reminder-api\\ExchangeReminder_API\\ExchangeReminder_API\\ExchangeReminder_API.csproj",
+      "projectPath": "C:\\Users\\devel\\OneDrive\\Masaüstü\\exchange-reminder-api\\exchange-reminder-api\\ExchangeReminder_API\\ExchangeReminder_API.csproj",
       "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devel\\OneDrive\\Masaüstü\\exchange-reminder-api\\ExchangeReminder_API\\ExchangeReminder_API\\obj\\",
+      "outputPath": "C:\\Users\\devel\\OneDrive\\Masaüstü\\exchange-reminder-api\\exchange-reminder-api\\ExchangeReminder_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
