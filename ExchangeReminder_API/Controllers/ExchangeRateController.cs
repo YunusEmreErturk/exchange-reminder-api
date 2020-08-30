@@ -9,7 +9,7 @@ using Newtonsoft.Json.Linq;
 
 namespace ExchangeReminder_API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/exchange")]
     public class ExchangeRateController : ControllerBase
     {
         private readonly IExchangeOperation exchangeOperation;
