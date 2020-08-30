@@ -1,4 +1,5 @@
 ﻿using ExchangeReminder_API.Models;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,9 +15,25 @@ namespace ExchangeReminder_API.Helpers
             this.dbContext = dbContext;
         }
 
-        public string selam()
+        public async Task<bool> CreateExchangeRecord(JObject data)
         {
-            throw new NotImplementedException();
+
+            PersonalExchangeRate personalExchangeRate = new PersonalExchangeRate();
+            personalExchangeRate.ExchangeType = (string)data["exchangeType"];
+            personalExchangeRate.PersonalRate = (decimal)data["personalRate"];
+            personalExchangeRate.ExchangeIncrease = (decimal)data["increaseOrDecrease"];
+            try
+            {
+                dbContext.PersonalExchangeRates.Add(personalExchangeRate);
+                await dbContext.SaveChangesAsync();
+                return true;
+            }
+            catch (Exception ex)
+            {
+
+                return false;
+            }
+
         }
     }
 }

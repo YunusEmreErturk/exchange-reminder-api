@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using ExchangeReminder_API.Helpers;
 using ExchangeReminder_API.Models;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json.Linq;
 
 namespace ExchangeReminder_API.Controllers
 {
@@ -17,6 +18,20 @@ namespace ExchangeReminder_API.Controllers
         {
             this.exchangeOperation = exchangeOperation;
         }
+
+        [Route("create_exchange"), HttpPost]
+        public async Task<ActionResult<User>> Register([FromBody] JObject data)
+        {
+            var exchangeResponse = await exchangeOperation.CreateExchangeRecord(data);
+
+            if (!exchangeResponse)
+                return BadRequest();
+
+
+            return new User();
+        }
+
+
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
